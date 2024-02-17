@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on turning app ideas into reality at Paraga.
 - 🌱 I’m currently learning and mastering new technologies.
 - 💬 Ask me about iOS app development, tvOS, and app maintenance.
-- 📫 How to reach me: [Check out my portfolio](www.vatanachhorn.info) and download my [CV](https://assets-global.website-files.com/65539edea8b2ce7255dfdf61/65ca38018e3953010c31abd7_Resume%20-%20Vatana%20Chhorn%20-%20Compressed.pdf).
+- 📫 How to reach me: [Check out my portfolio](www.vatanachhorn.info) and download my [CV](https://assets-global.website-files.com/65539edea8b2ce7255dfdf61/65d0b9dabb6efc28f6374ffc_Resume%20-%20Vatana%20Chhorn_compressed.pdf).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Beyond coding, I'm a fitness enthusiast, jamming to tunes, exploring local gems, and constantly picking up new skills and hobbies.
 
