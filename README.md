@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Vatana Chhorn
 
-👨‍💻 I'm currently working at **Paraga**, where we turn app ideas into reality. Previously, I honed my skills at **Okoone**, mastering tvOS and app maintenance.
+👨‍💻 I worked at **Paraga**, where we turn app ideas into reality. I also honed my skills at **Okoone**, mastering tvOS and app maintenance.
 
 🚀 Additionally, I lead **Dynomite**, where we create iOS apps that positively impact thousands in Cambodia.
 
